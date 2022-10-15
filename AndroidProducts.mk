@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_z2_plus.mk
+    $(LOCAL_DIR)/pixelexperience_z2_plus.mk
 
 COMMON_LUNCH_CHOICES := \
     lineage_z2_plus-user \
